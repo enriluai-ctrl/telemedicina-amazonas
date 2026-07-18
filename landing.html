@@ -550,9 +550,8 @@
         </a>
         <div class="nav-links">
             <a href="#problema">El problema</a>
+            <a href="#brecha">Brecha sanitaria</a>
             <a href="#solucion">Cómo funciona</a>
-            <a href="#demo">Demo</a>
-            <a href="#equipos">Equipos</a>
             <a href="#cobertura">Cobertura</a>
             <a href="#tco">Costos</a>
             <a href="#paquetes">Modalidades</a>
@@ -574,6 +573,7 @@
     </div>
     <nav class="drawer-nav">
         <a href="#problema"><i class="fa-solid fa-triangle-exclamation"></i> El problema</a>
+        <a href="#brecha"><i class="fa-solid fa-circle-exclamation"></i> Brecha sanitaria</a>
         <a href="#solucion"><i class="fa-solid fa-microchip"></i> Cómo funciona</a>
         <a href="#demo"><i class="fa-solid fa-play"></i> Demo en vivo</a>
         <a href="#equipos"><i class="fa-solid fa-bluetooth"></i> Equipos compatibles</a>
@@ -608,12 +608,16 @@
                     <div class="lbl">Establecimientos<br>de salud</div>
                 </div>
                 <div class="hero-stat">
-                    <div class="num">7</div>
-                    <div class="lbl">Provincias<br>cubiertas</div>
+                    <div class="num">385K</div>
+                    <div class="lbl">Habitantes en<br>sectores sanitarios</div>
                 </div>
                 <div class="hero-stat">
-                    <div class="num">0</div>
-                    <div class="lbl">Configuración<br>(plug &amp; play)</div>
+                    <div class="num">156</div>
+                    <div class="lbl">Sectores sanitarios<br>rurales</div>
+                </div>
+                <div class="hero-stat">
+                    <div class="num">4</div>
+                    <div class="lbl">RIS · 7 provincias<br>53 distritos</div>
                 </div>
             </div>
         </div>
@@ -660,26 +664,142 @@
         <div class="section-head">
             <span class="eyebrow"><i class="fa-solid fa-triangle-exclamation"></i> La realidad</span>
             <h2>Amazonas tiene la geografía más difícil del país para la salud</h2>
-            <p>Datos reales de REUNIS/MINSA sobre las postas rurales de la región.</p>
+            <p>Datos reales de REUNIS/MINSA, RENIPRESS y DIRESA Amazonas sobre las 4 RIS y 475 establecimientos de salud de la región.</p>
         </div>
         <div class="problema-grid">
             <div class="problema-card">
                 <div class="icon"><i class="fa-solid fa-route"></i></div>
                 <span class="stat">6-8 h</span>
                 <h3>De viaje al hospital</h3>
-                <p>Las comunidades Awajún y Wampis están a horas por río y trocha del hospital de referencia más cercano.</p>
+                <p>Las comunidades Awajún y Wampis de Condorcanqui e Imaza están a horas por río y trocha del hospital de referencia más cercano. <strong>Distritos como Río Santiago y El Cenepa solo accesibles por avioneta.</strong></p>
             </div>
             <div class="problema-card">
                 <div class="icon"><i class="fa-solid fa-user-nurse"></i></div>
                 <span class="stat">I-1</span>
                 <h3>Postas sin médico</h3>
-                <p>Los establecimientos I-1 solo tienen una técnica de enfermería. Atiende sola emergencias que no debería.</p>
+                <p>Los <strong>361 establecimientos vinculados</strong> (76% del total) son postas I-1 con solo una técnica de enfermería atendiendo sola emergencias que no debería. Solo <strong>114 tienen rol de puerta de entrada</strong>.</p>
             </div>
             <div class="problema-card">
                 <div class="icon"><i class="fa-solid fa-satellite-dish"></i></div>
                 <span class="stat">0 MB</span>
                 <h3>Sin conectividad</h3>
-                <p>Gran parte de Condorcanqui y zonas de Bagua no tienen señal estable. Las soluciones que requieren internet, allí no funcionan.</p>
+                <p>Gran parte de <strong>Condorcanqui (44,948 hab), Imaza (27,920 hab) y Río Santiago (14,073 hab)</strong> no tienen señal estable. Las soluciones que requieren internet, allí no funcionan.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ===== 2.5 CIFRAS DE LA BRECHA SANITARIA (NEW) ===== -->
+<section class="brecha-sanitaria" id="brecha">
+    <style>
+        .brecha-sanitaria {
+            background: linear-gradient(135deg, #0a0a0a 0%, #0c2a23 50%, #052e16 100%);
+            color: #fff; padding: 80px 0; position: relative; overflow: hidden;
+            border-top: 1px solid rgba(255,255,255,.08);
+            border-bottom: 1px solid rgba(255,255,255,.08);
+        }
+        .brecha-sanitaria::before {
+            content: ""; position: absolute; inset: 0; pointer-events: none;
+            background:
+                radial-gradient(circle at 20% 30%, rgba(16,185,129,.15) 0%, transparent 40%),
+                radial-gradient(circle at 80% 70%, rgba(245,158,11,.10) 0%, transparent 45%);
+        }
+        .brecha-sanitaria .wrap { position: relative; z-index: 1; }
+        .brecha-sanitaria .section-head h2 { color: #fff; }
+        .brecha-sanitaria .section-head p { color: rgba(255,255,255,.8); }
+        .brecha-sanitaria .eyebrow {
+            background: rgba(255,71,107,.16); color: #ff8a9f;
+            border-color: rgba(255,71,107,.4);
+        }
+        .brecha-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 24px; margin-bottom: 36px; }
+        .brecha-card {
+            background: rgba(255,255,255,.05); border: 1px solid rgba(255,255,255,.1);
+            border-radius: 18px; padding: 32px 26px; text-align: center; transition: all .3s;
+        }
+        .brecha-card:hover {
+            background: rgba(255,255,255,.08); border-color: rgba(16,185,129,.4);
+            transform: translateY(-3px);
+        }
+        .brecha-card .big-num {
+            font-family: 'Lato', sans-serif; font-size: clamp(2.2rem, 4.5vw, 3.2rem);
+            font-weight: 900; line-height: 1; margin-bottom: 10px;
+            background: linear-gradient(135deg, #6ee7b7, #10b981);
+            -webkit-background-clip: text; background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .brecha-card .big-num.amber {
+            background: linear-gradient(135deg, #fbbf24, #f59e0b);
+            -webkit-background-clip: text; background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        .brecha-card h3 { color: #fff; font-size: 1.1rem; margin-bottom: 8px; }
+        .brecha-card p { color: rgba(255,255,255,.75); font-size: .9rem; line-height: 1.5; }
+        .brecha-case {
+            background: rgba(16,185,129,.08); border: 1px solid rgba(16,185,129,.3);
+            border-radius: 18px; padding: 28px 32px;
+            display: flex; align-items: center; gap: 24px; flex-wrap: wrap;
+        }
+        .brecha-case .case-label {
+            font-size: .72rem; font-weight: 700; letter-spacing: .12em;
+            text-transform: uppercase; color: #6ee7b7; margin-bottom: 6px;
+        }
+        .brecha-case h4 { color: #fff; font-size: 1.4rem; margin-bottom: 6px; }
+        .brecha-case p { color: rgba(255,255,255,.85); font-size: .96rem; flex: 1; min-width: 250px; }
+        .brecha-case .case-stat {
+            background: rgba(16,185,129,.12); border: 1px solid rgba(16,185,129,.4);
+            border-radius: 14px; padding: 16px 22px; text-align: center;
+        }
+        .brecha-case .case-stat .n {
+            font-family: 'Lato', sans-serif; font-size: 2rem; font-weight: 900; color: #6ee7b7;
+            line-height: 1;
+        }
+        .brecha-case .case-stat .l {
+            font-size: .76rem; color: rgba(255,255,255,.7); margin-top: 4px;
+            text-transform: uppercase; letter-spacing: .06em;
+        }
+        @media (max-width: 768px) {
+            .brecha-grid { grid-template-columns: 1fr; }
+            .brecha-case { flex-direction: column; text-align: center; }
+        }
+    </style>
+    <div class="wrap">
+        <div class="section-head">
+            <span class="eyebrow"><i class="fa-solid fa-circle-exclamation"></i> La brecha sanitaria</span>
+            <h2>475 establecimientos para 385,872 amazónidos</h2>
+            <p>Cifras del Padrón RENIPRESS / DIRESA Amazonas (procesado de las 4 RIS oficiales). La dispersión extrema y la falta de médicos definen el abandono sanitario rural.</p>
+        </div>
+
+        <div class="brecha-grid">
+            <div class="brecha-card">
+                <div class="big-num">76%</div>
+                <h3>Postas sin médico</h3>
+                <p><strong>361 de 475 establecimientos</strong> son postas I-1 vinculadas, atendidas por una técnica de enfermería sola. Sin médico presente.</p>
+            </div>
+            <div class="brecha-card">
+                <div class="big-num">83</div>
+                <h3>EE.SS. Awajún-Wampis</h3>
+                <p>Las RIS <strong>Condorcanqui (75) + Imaza en RIS Bagua</strong> concentran los establecimientos en territorio indígena. Los más aislados del país.</p>
+            </div>
+            <div class="brecha-card">
+                <div class="big-num amber">156</div>
+                <h3>Sectores sanitarios</h3>
+                <p>Comunidades dispersas atendidas por los 475 EE.SS. <strong>Cada sector promedia 2,474 habitantes</strong> dispersos en selva.</p>
+            </div>
+        </div>
+
+        <div class="brecha-case">
+            <div style="flex: 1; min-width: 280px;">
+                <div class="case-label"><i class="fa-solid fa-location-dot"></i> Caso paradigmático · Imaza (Awajún)</div>
+                <h4>Distrito #1 con más establecimientos de Amazonas</h4>
+                <p>Imaza (Bagua) tiene <strong>39 EE.SS. para 27,920 habitantes Awajún</strong>. Es el distrito más grande y disperso de la región. Su cabecera (Chipe) es accesible solo por trocha o río. La mayor concentración de brecha sanitaria rural de Amazonas.</p>
+            </div>
+            <div class="case-stat">
+                <div class="n">39</div>
+                <div class="l">EE.SS. en 1 distrito</div>
+            </div>
+            <div class="case-stat">
+                <div class="n">27,920</div>
+                <div class="l">Habitantes Awajún</div>
             </div>
         </div>
     </div>
