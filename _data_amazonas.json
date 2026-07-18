@@ -1,0 +1,1282 @@
+{
+ "ris": {
+  "BAGUA": [
+   {
+    "distrito": "IMAZA",
+    "codigo": "00005081",
+    "referencia": "WAYAMPIAK",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "CHIJA",
+     "SIJIAK",
+     "TUNTUS",
+     "YANAT"
+    ]
+   },
+   {
+    "distrito": "IMAZA",
+    "codigo": "00005071",
+    "referencia": "CHIPE",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "JEMPEST-CHICAIS",
+     "KUSU",
+     "LISTRA",
+     "NUEVA VIDA",
+     "NUMPATKAIM",
+     "SAN PABLO"
+    ]
+   },
+   {
+    "distrito": "IMAZA",
+    "codigo": "00005075",
+    "referencia": "TUPAC AMARU I",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "BICHANAK",
+     "CENTRO WAWIK",
+     "NUEVO BELEN",
+     "WAWICO"
+    ]
+   },
+   {
+    "distrito": "IMAZA",
+    "codigo": "00005082",
+    "referencia": "WAJUYAT",
+    "provincia": "BAGUA",
+    "vinculados": []
+   },
+   {
+    "distrito": "IMAZA",
+    "codigo": "00005070",
+    "referencia": "IMAZA",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "TENASHNUM",
+     "UUT",
+     "WANTSA",
+     "YAMAYAKAT"
+    ]
+   },
+   {
+    "distrito": "IMAZA",
+    "codigo": "00005194",
+    "referencia": "KUNCHIN",
+    "provincia": "BAGUA",
+    "vinculados": []
+   },
+   {
+    "distrito": "IMAZA",
+    "codigo": "00007435",
+    "referencia": "MESONES MURO",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "KUSU GRANDE"
+    ]
+   },
+   {
+    "distrito": "IMAZA",
+    "codigo": "00005084",
+    "referencia": "CHIRIACO",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "NAYUMPIN",
+     "NAZARETH",
+     "PAKUIT",
+     "SAN RAFAEL",
+     "SHIMPUENTS",
+     "WAWAIN"
+    ]
+   },
+   {
+    "distrito": "IMAZA",
+    "codigo": "00005088",
+    "referencia": "SAMAREN-YUPICUSA",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "SAN RAMON"
+    ]
+   },
+   {
+    "distrito": "IMAZA",
+    "codigo": "00005089",
+    "referencia": "WAWAS",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "DURAND",
+     "SHUSHUG",
+     "SUKUTIN"
+    ]
+   },
+   {
+    "distrito": "ARAMANGO",
+    "codigo": "00005053",
+    "referencia": "ARAMANGO",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "CHINGANZA",
+     "EL CEDRON",
+     "GUAYAQUIL",
+     "MIRAFLORES DE ARAMANGO",
+     "MONTENEGRO",
+     "NAJEM",
+     "NUMPARKET",
+     "SELVA VERDE",
+     "SHAIM"
+    ]
+   },
+   {
+    "distrito": "ARAMANGO",
+    "codigo": "00005059",
+    "referencia": "TUTUMBEROS",
+    "provincia": "BAGUA",
+    "vinculados": []
+   },
+   {
+    "distrito": "ARAMANGO",
+    "codigo": "00005056",
+    "referencia": "EL MUYO",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "LA LIBERTAD",
+     "SAN JUAN DE DIOS",
+     "ZAPOTAL"
+    ]
+   },
+   {
+    "distrito": "ARAMANGO",
+    "codigo": "00005057",
+    "referencia": "EL PORVENIR DE ARAMANGO",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "CAMPO BONITO",
+     "COPALLIN DE ARAMANGO",
+     "SANTA CLARA"
+    ]
+   },
+   {
+    "distrito": "BAGUA",
+    "codigo": "00006998",
+    "referencia": "BAGUA",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "ACERILLO",
+     "CASUAL",
+     "ESPITAL",
+     "NARANJOS",
+     "SAN ISIDRO",
+     "UNION PROGRESO"
+    ]
+   },
+   {
+    "distrito": "BAGUA",
+    "codigo": "00035185",
+    "referencia": "AUGUSTO WONG LOPEZ",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "ALENYA",
+     "CRUCE ALENYA",
+     "TOMAQUE"
+    ]
+   },
+   {
+    "distrito": "BAGUA",
+    "codigo": "00007276",
+    "referencia": "LA PRIMAVERA",
+    "provincia": "BAGUA",
+    "vinculados": []
+   },
+   {
+    "distrito": "EL PARCO",
+    "codigo": "00005193",
+    "referencia": "EL PARCO",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "TOLOPAMPA"
+    ]
+   },
+   {
+    "distrito": "LA PECA",
+    "codigo": "00005049",
+    "referencia": "LA PECA",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "EL TRIUNFO",
+     "ARRAYAN",
+     "CHONZA ALTA",
+     "SAN FRANCISCO"
+    ]
+   },
+   {
+    "distrito": "COPALLIN",
+    "codigo": "00005063",
+    "referencia": "COPALLIN",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "CHONZA LAGUNA"
+    ]
+   },
+   {
+    "distrito": "COPALLIN",
+    "codigo": "00007004",
+    "referencia": "LLUHUANA",
+    "provincia": "BAGUA",
+    "vinculados": [
+     "PAN DE AZUCAR",
+     "SANTA CRUZ DE MOROCHAL"
+    ]
+   }
+  ],
+  "CHACHAPOYAS": [
+   {
+    "distrito": "YAMBRASBAMBA",
+    "codigo": "00004936",
+    "referencia": "PROGRESO",
+    "provincia": "BONGARA",
+    "vinculados": [
+     "VILLA HERMOSA"
+    ]
+   },
+   {
+    "distrito": "JUMBILLA",
+    "codigo": "00004917",
+    "referencia": "JUMBILLA",
+    "provincia": "BONGARA",
+    "vinculados": [
+     "CHISQUILLA",
+     "RECTA",
+     "SAN MIGUEL DE LA REYNA"
+    ]
+   },
+   {
+    "distrito": "FLORIDA",
+    "codigo": "00004932",
+    "referencia": "POMACOCHAS",
+    "provincia": "BONGARA",
+    "vinculados": [
+     "SAN JOSE DE POMACOCHAS",
+     "GUALULO",
+     "YAMBRASBAMBA",
+     "LAS PALMAS"
+    ]
+   },
+   {
+    "distrito": "COROSHA",
+    "codigo": "00004916",
+    "referencia": "COROSHA",
+    "provincia": "BONGARA",
+    "vinculados": []
+   },
+   {
+    "distrito": "YAMBRASBAMBA",
+    "codigo": "00004937",
+    "referencia": "BUENOS AIRES",
+    "provincia": "BONGARA",
+    "vinculados": [
+     "CHAYUYAKU",
+     "LA ESPERANZA",
+     "LA FLORIDA",
+     "PERLA DE IMAZA"
+    ]
+   },
+   {
+    "distrito": "JAZAN",
+    "codigo": "00004922",
+    "referencia": "PEDRO RUIZ GALLO",
+    "provincia": "BONGARA",
+    "vinculados": [
+     "COMBOCA",
+     "FANRRE",
+     "SAN CARLOS",
+     "DUNIA CHICO",
+     "LA UNION",
+     "CUISPES",
+     "LA FLORIDA",
+     "SAN JERONIMO",
+     "CARRERA",
+     "CHOSGON"
+    ]
+   },
+   {
+    "distrito": "SHIPASBAMBA",
+    "codigo": "00004935",
+    "referencia": "SHISPASBAMBA",
+    "provincia": "BONGARA",
+    "vinculados": []
+   },
+   {
+    "distrito": "CHURUJA",
+    "codigo": "00004919",
+    "referencia": "CHURUJA",
+    "provincia": "BONGARA",
+    "vinculados": [
+     "MATIAZA RIMACHI",
+     "SAN PABLO DE VALERA",
+     "LA COCA",
+     "COCACHIMBA"
+    ]
+   },
+   {
+    "distrito": "SANTA CATALINA",
+    "codigo": "00004913",
+    "referencia": "SALAZAR",
+    "provincia": "LUYA",
+    "vinculados": [
+     "INGENIO",
+     "SAN JUAN DE PROVIDENCIA",
+     "SAN ISIDRO DE QUIUCMAL"
+    ]
+   },
+   {
+    "distrito": "OCUMAL",
+    "codigo": "00004844",
+    "referencia": "SAN JUAN DE OCUMAL",
+    "provincia": "LUYA",
+    "vinculados": [
+     "VISTA HERMOSA",
+     "SAN PEDRO Y SAN PABLO",
+     "YAULICACHI"
+    ]
+   },
+   {
+    "distrito": "LAMUD",
+    "codigo": "00004850",
+    "referencia": "LAMUD",
+    "provincia": "LUYA",
+    "vinculados": [
+     "SAN CRISTOBAL DE OLTO",
+     "PACLAS",
+     "TRITA",
+     "LUYA VIEJO",
+     "CUEMAL"
+    ]
+   },
+   {
+    "distrito": "LUYA",
+    "codigo": "00004866",
+    "referencia": "LUYA",
+    "provincia": "LUYA",
+    "vinculados": [
+     "CAMELIN",
+     "INGUILPATA",
+     "COLMATA",
+     "LONYA CHICO",
+     "COROBAMBA",
+     "SHIPATA",
+     "NUEVO LUYA"
+    ]
+   },
+   {
+    "distrito": "SANTA CATALINA",
+    "codigo": "00004854",
+    "referencia": "SANTA CATALINA",
+    "provincia": "LUYA",
+    "vinculados": []
+   },
+   {
+    "distrito": "OCUMAL",
+    "codigo": "00004843",
+    "referencia": "COLLONCE",
+    "provincia": "LUYA",
+    "vinculados": [
+     "CALDERA"
+    ]
+   },
+   {
+    "distrito": "CONILA",
+    "codigo": "00004863",
+    "referencia": "CONILA COHECHAN",
+    "provincia": "LUYA",
+    "vinculados": [
+     "CRUZPATA",
+     "CHOCTA"
+    ]
+   },
+   {
+    "distrito": "CAMPORREDONDO",
+    "codigo": "00004874",
+    "referencia": "COCOCHO",
+    "provincia": "LUYA",
+    "vinculados": [
+     "LA LIBERTAD"
+    ]
+   },
+   {
+    "distrito": "PROVIDENCIA",
+    "codigo": "00004849",
+    "referencia": "PROVIDENCIA",
+    "provincia": "LUYA",
+    "vinculados": []
+   },
+   {
+    "distrito": "CAMPORREDONDO",
+    "codigo": "00004875",
+    "referencia": "GUADALUPE",
+    "provincia": "LUYA",
+    "vinculados": []
+   },
+   {
+    "distrito": "OCALLI",
+    "codigo": "00004876",
+    "referencia": "OCALLI",
+    "provincia": "LUYA",
+    "vinculados": [
+     "TACTAMAL",
+     "QUISPE",
+     "CELCHO CUZCO",
+     "PLAYA JUMETH"
+    ]
+   },
+   {
+    "distrito": "CAMPORREDONDO",
+    "codigo": "00004873",
+    "referencia": "CAMPORREDONDO",
+    "provincia": "LUYA",
+    "vinculados": [
+     "EL PALTO"
+    ]
+   },
+   {
+    "distrito": "PROVIDENCIA",
+    "codigo": "00007061",
+    "referencia": "NUEVO CHOTA",
+    "provincia": "LUYA",
+    "vinculados": [
+     "HUARANGUILLO"
+    ]
+   },
+   {
+    "distrito": "TINGO",
+    "codigo": "00004903",
+    "referencia": "TINGO",
+    "provincia": "LUYA",
+    "vinculados": [
+     "CHOCTAMAL",
+     "KUELAP",
+     "MAGDALENA",
+     "LONGUITA"
+    ]
+   },
+   {
+    "distrito": "PISUQUIA",
+    "codigo": "00004846",
+    "referencia": "PIRCAPAMPA",
+    "provincia": "LUYA",
+    "vinculados": [
+     "SAN MIGUEL DE PORO PORO"
+    ]
+   },
+   {
+    "distrito": "PISUQUIA",
+    "codigo": "00004901",
+    "referencia": "TRIBULON",
+    "provincia": "LUYA",
+    "vinculados": [
+     "SAN RAMON",
+     "YOMBLON DE PISUQUIA",
+     "PUEBLO NUEVO",
+     "PISUQUIA",
+     "MEMBRILLO",
+     "EL REJO"
+    ]
+   },
+   {
+    "distrito": "COCABAMBA",
+    "codigo": "00004893",
+    "referencia": "QUISQUIS",
+    "provincia": "LUYA",
+    "vinculados": [
+     "CHUILON",
+     "BALERIANA",
+     "MENDAN"
+    ]
+   },
+   {
+    "distrito": "COCABAMBA",
+    "codigo": "00004885",
+    "referencia": "COCABAMBA",
+    "provincia": "LUYA",
+    "vinculados": [
+     "BUENA VISTA",
+     "YOMBLON DE COCABAMBA"
+    ]
+   },
+   {
+    "distrito": "MARIA",
+    "codigo": "00004899",
+    "referencia": "MARIA",
+    "provincia": "LUYA",
+    "vinculados": []
+   },
+   {
+    "distrito": "CHACHAPOYAS",
+    "codigo": "00007040",
+    "referencia": "VIRGEN DE ASUNTA",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": [
+     "HIGOS URCO",
+     "EL MOLINO",
+     "TAQUIA",
+     "SAN ISIDRO DE UTCUBAMBA",
+     "LEVANTO",
+     "MAYNO"
+    ]
+   },
+   {
+    "distrito": "COLCAMAR",
+    "codigo": "00004895",
+    "referencia": "COLCAMAR",
+    "provincia": "LUYA",
+    "vinculados": [
+     "PONAYA",
+     "COCHA",
+     "QUILLILLIC"
+    ]
+   },
+   {
+    "distrito": "CHACHAPOYAS",
+    "codigo": "00006754",
+    "referencia": "9 DE ENERO",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": []
+   },
+   {
+    "distrito": "CHACHAPOYAS",
+    "codigo": "00007037",
+    "referencia": "PEDRO CASTRO ALVA",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": [
+     "SEÑOR DE LOS MILAGROS",
+     "HUANCAS"
+    ]
+   },
+   {
+    "distrito": "CHACHAPOYAS",
+    "codigo": "00027352",
+    "referencia": "MARIA DOLORES QUISPE VILCHEZ",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": []
+   },
+   {
+    "distrito": "CHILIQUIN",
+    "codigo": "00004879",
+    "referencia": "VITUYA",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": [
+     "SENGACHE"
+    ]
+   },
+   {
+    "distrito": "MOLINOPAMPA",
+    "codigo": "00004869",
+    "referencia": "MOLINOPAMPA",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": [
+     "ASUNCION GONCHA",
+     "OLLEROS",
+     "QUINJALCA",
+     "GRANADA",
+     "CASMAL",
+     "SAN JOSE"
+    ]
+   },
+   {
+    "distrito": "SAN FRANCISCO DE DAGUAS",
+    "codigo": "00004881",
+    "referencia": "PIPUS",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": [
+     "CHILIQUIN",
+     "CUELCHO",
+     "CHONTAPAMPA",
+     "NUEVO OLMAL",
+     "SONCHE",
+     "MITO",
+     "SOLOCO",
+     "CHETO",
+     "QUITACHI"
+    ]
+   },
+   {
+    "distrito": "OMIA",
+    "codigo": "00004947",
+    "referencia": "NUEVO CHIRIMOTO",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": [
+     "MASHUYACU"
+    ]
+   },
+   {
+    "distrito": "CHIRIMOTO",
+    "codigo": "00004954",
+    "referencia": "ZARUMILLA",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": [
+     "ACHAMAL",
+     "EL GUAMBO",
+     "LEGIA CHICO",
+     "SANTO TORIBIO",
+     "SAN ANTONIO",
+     "VISTA HERMOZA",
+     "NUEVO CHACHAPOYAS",
+     "LUZ DEL ORIENTE",
+     "CANAAN"
+    ]
+   },
+   {
+    "distrito": "OMIA",
+    "codigo": "00004946",
+    "referencia": "OMIA",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": [
+     "TOCUYA",
+     "CHONTAPAMPA"
+    ]
+   },
+   {
+    "distrito": "OMIA",
+    "codigo": "00006991",
+    "referencia": "EL LIBANO",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": [
+     "LA PRIMAVERA",
+     "JAVRULOT",
+     "PAUJIL"
+    ]
+   },
+   {
+    "distrito": "LONGAR",
+    "codigo": "00004944",
+    "referencia": "LONGAR",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": [
+     "SHUCUSH",
+     "COCHAMAL",
+     "OQUISH"
+    ]
+   },
+   {
+    "distrito": "HUAMBO",
+    "codigo": "00004943",
+    "referencia": "HUAMBO",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": [
+     "CHONTAPAMPA",
+     "NUEVO HORIZONTE"
+    ]
+   },
+   {
+    "distrito": "MARISCAL BENAVIDES",
+    "codigo": "00004945",
+    "referencia": "MARISCAL BENAVIDES",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": [
+     "IZCUCHACA",
+     "MICHINA"
+    ]
+   },
+   {
+    "distrito": "TOTORA",
+    "codigo": "00004958",
+    "referencia": "TOTORA",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": [
+     "SANTA ROSA",
+     "MILPUC"
+    ]
+   },
+   {
+    "distrito": "LIMABAMBA",
+    "codigo": "00004955",
+    "referencia": "LIMABAMBA",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": [
+     "EL TRIUNFO",
+     "NUEVA ESPERANZA",
+     "CHIRIMOTO",
+     "MONTEALEGRE"
+    ]
+   },
+   {
+    "distrito": "SANTO TOMAS",
+    "codigo": "00004887",
+    "referencia": "SANTO TOMAS",
+    "provincia": "LUYA",
+    "vinculados": [
+     "MARAYPATA",
+     "SAN SALVADOR",
+     "TINTIN"
+    ]
+   },
+   {
+    "distrito": "LA JALCA",
+    "codigo": "00004905",
+    "referencia": "JALCA GRANDE",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": [
+     "CUEYQUETA"
+    ]
+   },
+   {
+    "distrito": "LA JALCA",
+    "codigo": "00004904",
+    "referencia": "YERBABUENA",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": [
+     "AGUA SANTA",
+     "LLACTAPAMPA",
+     "BUIQUIL",
+     "SAN JUAN DE LOPECANCHA",
+     "EL MANGO",
+     "QUELUCAS",
+     "PENGOTE",
+     "EL PUENTE",
+     "QUILLUNYA",
+     "TACTA",
+     "DURAZNOPAMPA",
+     "MONTEVIDEO"
+    ]
+   },
+   {
+    "distrito": "BALSAS",
+    "codigo": "00004856",
+    "referencia": "BALZAS",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": [
+     "SAULLAMUR"
+    ]
+   },
+   {
+    "distrito": "LEIMEBAMBA",
+    "codigo": "00004859",
+    "referencia": "LEYMEBAMBA",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": [
+     "SAN FRANCISCO DEL YESO",
+     "GOLLON",
+     "PLAZAPAMPA",
+     "CHILCHOS",
+     "ATUEN",
+     "LA MORADA"
+    ]
+   },
+   {
+    "distrito": "CHUQUIBAMBA",
+    "codigo": "00004858",
+    "referencia": "CHUQUIBAMBA",
+    "provincia": "CHACHAPOYAS",
+    "vinculados": [
+     "COCHABAMBA",
+     "CHUMBOL"
+    ]
+   },
+   {
+    "distrito": "OMIA",
+    "codigo": "00009680",
+    "referencia": "GARZAYACU",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": []
+   },
+   {
+    "distrito": "OMIA",
+    "codigo": "00007054",
+    "referencia": "EL DORADO",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": [
+     "NUEVO OMIA"
+    ]
+   },
+   {
+    "distrito": "VISTA ALEGRE",
+    "codigo": "00007057",
+    "referencia": "SALAS",
+    "provincia": "RODRIGUEZ DE MENDOZA",
+    "vinculados": [
+     "VISTA ALEGRE"
+    ]
+   }
+  ],
+  "CONDORCANQUI": [
+   {
+    "distrito": "RIO SANTIAGO",
+    "codigo": "00005180",
+    "referencia": "CANDUNGOS",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "AYAMBIS",
+     "SOLEDAD",
+     "PASHKUS",
+     "CUCUAZA",
+     "AMPAMA",
+     "PAPAYACU"
+    ]
+   },
+   {
+    "distrito": "RIO SANTIAGO",
+    "codigo": "00005175",
+    "referencia": "GALILEA",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "SHIRINGA",
+     "HUABAL",
+     "VILLA GONZALO",
+     "AITAM",
+     "CHINGANAZA",
+     "CATERPIZA",
+     "CHOSICA",
+     "CHAPIZA",
+     "NAUTA"
+    ]
+   },
+   {
+    "distrito": "RIO SANTIAGO",
+    "codigo": "00005178",
+    "referencia": "YUTUPIS",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "ALTO YUTUPIS",
+     "SHEBONAL",
+     "GUAYABAL"
+    ]
+   },
+   {
+    "distrito": "RIO SANTIAGO",
+    "codigo": "00005184",
+    "referencia": "BELEN",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "YUJACKIM",
+     "KAGKAS",
+     "SAN RAFAEL"
+    ]
+   },
+   {
+    "distrito": "EL CENEPA",
+    "codigo": "00005162",
+    "referencia": "HUAMPAMI",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "CANGA",
+     "ACHU",
+     "KUMPIN",
+     "TUANG ENTSA",
+     "BUCHIGKIM",
+     "PAANTAN ENTSA",
+     "TUTINO",
+     "MAMAYAQUE"
+    ]
+   },
+   {
+    "distrito": "EL CENEPA",
+    "codigo": "00005165",
+    "referencia": "KUSU KUBAIM",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "KUSU PAGATA",
+     "KUYUMATAK",
+     "TEESH",
+     "SHAIM",
+     "WICHIM"
+    ]
+   },
+   {
+    "distrito": "EL CENEPA",
+    "codigo": "00005170",
+    "referencia": "PAMPA ENTZA",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "ACHUIM",
+     "SHAMATAK GRANDE",
+     "KUSU NUMPATKAIM"
+    ]
+   },
+   {
+    "distrito": "NIEVA",
+    "codigo": "00005148",
+    "referencia": "PAKINTSA",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "BAJO PUPUNTAS",
+     "ATSAKUS"
+    ]
+   },
+   {
+    "distrito": "NIEVA",
+    "codigo": "00005157",
+    "referencia": "NUEVO SEASME",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "BASHUTAK",
+     "ALTO PAJACUSA"
+    ]
+   },
+   {
+    "distrito": "NIEVA",
+    "codigo": "00007134",
+    "referencia": "NIEVA",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "SAASA",
+     "YUMINGKUS",
+     "PUMPUS",
+     "HAK",
+     "ALTO KANAMPA",
+     "CIRO ALEGRIA",
+     "JAPAIME ESCUELA"
+    ]
+   },
+   {
+    "distrito": "NIEVA",
+    "codigo": "00005155",
+    "referencia": "URAKUSA",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "AJACHIN",
+     "NAPURUKA",
+     "WAWAIN"
+    ]
+   },
+   {
+    "distrito": "NIEVA",
+    "codigo": "00006922",
+    "referencia": "TAYUNTSA",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "CENTRO TUNDUZA",
+     "NUEVA UNIDA",
+     "CHORROS"
+    ]
+   },
+   {
+    "distrito": "NIEVA",
+    "codigo": "00005147",
+    "referencia": "PUTUYAKAT",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "CUZUMATAK",
+     "ALAN GARCIA",
+     "PAANTAM"
+    ]
+   },
+   {
+    "distrito": "NIEVA",
+    "codigo": "00005149",
+    "referencia": "KIGKIS",
+    "provincia": "CONDORCANQUI",
+    "vinculados": []
+   },
+   {
+    "distrito": "NIEVA",
+    "codigo": "00005146",
+    "referencia": "IPAKUMA",
+    "provincia": "CONDORCANQUI",
+    "vinculados": [
+     "KAYAMAS",
+     "CACHIACCO",
+     "NUMPATKAIM"
+    ]
+   }
+  ],
+  "UTCUBAMBA.xlsx": [
+   {
+    "distrito": "CUMBA",
+    "codigo": "00005111",
+    "referencia": "CUMBA",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "VISTA HERMOZA",
+     "CHALLUAYACU DE CUMBA",
+     "HUALANGO",
+     "VISTA ALEGRE DE CUMBA",
+     "OCTUCHO",
+     "TACTAGO",
+     "MALLETA",
+     "YAMON",
+     "PUEBLO NUEVO DE YAMON",
+     "EL REJO"
+    ]
+   },
+   {
+    "distrito": "YAMON",
+    "codigo": "00005115",
+    "referencia": "VISTA ALEGRE DE YAMON",
+    "provincia": "UTCUBAMBA",
+    "vinculados": []
+   },
+   {
+    "distrito": "CUMBA",
+    "codigo": "00005112",
+    "referencia": "NUEVA ESPERANZA",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "LA FLOR",
+     "MIRAFLORES",
+     "SAN MARTÍN DE CUMBA"
+    ]
+   },
+   {
+    "distrito": "EL MILAGRO",
+    "codigo": "00005066",
+    "referencia": "EL MILAGRO",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "SAN PEDRO DE LA PAPAYA",
+     "HUARANGOPAMPA",
+     "EL VALOR",
+     "EL REPOSO",
+     "SIEMPRE VIVA",
+     "JOROBAMBA"
+    ]
+   },
+   {
+    "distrito": "BAGUA GRANDE",
+    "codigo": "00005136",
+    "referencia": "LA VICTORIA",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "MORROPON",
+     "EL PINTOR",
+     "JAHUANGA",
+     "NUEVO HORIZONTE"
+    ]
+   },
+   {
+    "distrito": "BAGUA GRANDE",
+    "codigo": "00005128",
+    "referencia": "BUENA VISTA",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "VISTA ALEGRE",
+     "MIRAFLORES DE BUENAVISTA"
+    ]
+   },
+   {
+    "distrito": "YAMON",
+    "codigo": "00005117",
+    "referencia": "EL PALTO",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "SAN MIGUEL"
+    ]
+   },
+   {
+    "distrito": "BAGUA GRANDE",
+    "codigo": "00005130",
+    "referencia": "COLLICATE",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "TOMOCHO",
+     "CAMPO ALEGRE",
+     "VISTA HERMOSA",
+     "EL BALCON",
+     "SANTA CLARA",
+     "ALTO PERU",
+     "ROSAPAMPA",
+     "SAN RAMON"
+    ]
+   },
+   {
+    "distrito": "BAGUA GRANDE",
+    "codigo": "00005126",
+    "referencia": "MIRAFLORES",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "EL PORVENIR DE MIRAFLORES",
+     "PONA ALTA",
+     "NUEVO ORIENTE",
+     "SACHAPOYAS"
+    ]
+   },
+   {
+    "distrito": "BAGUA GRANDE",
+    "codigo": "00005129",
+    "referencia": "ÑUNYA JALCA",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "NUEVA INDEPENDENCIA",
+     "PUEBLO LIBRE",
+     "PLAYA GRANDE"
+    ]
+   },
+   {
+    "distrito": "BAGUA GRANDE",
+    "codigo": "00005134",
+    "referencia": "SAN MARTIN",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "PROGRESO SAN ANTONIO"
+    ]
+   },
+   {
+    "distrito": "BAGUA GRANDE",
+    "codigo": "00007285",
+    "referencia": "SAN LUIS",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "MISQUIYACU BAJO",
+     "ÑUNYA TEMPLE"
+    ]
+   },
+   {
+    "distrito": "BAGUA GRANDE",
+    "codigo": "00011971",
+    "referencia": "MAVILA MONTENEGRO MORI",
+    "provincia": "UTCUBAMBA",
+    "vinculados": []
+   },
+   {
+    "distrito": "BAGUA GRANDE",
+    "codigo": "00007043",
+    "referencia": "UTCUBAMBA",
+    "provincia": "UTCUBAMBA",
+    "vinculados": []
+   },
+   {
+    "distrito": "CAJARURO",
+    "codigo": "00005092",
+    "referencia": "CAJARURO",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "SAN JOSE BAJO",
+     "CHUNGUINA"
+    ]
+   },
+   {
+    "distrito": "CAJARURO",
+    "codigo": "00005099",
+    "referencia": "NARANJOS ALTOS",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "DIAMANTE BAJO",
+     "MISQUIYACU ALTO"
+    ]
+   },
+   {
+    "distrito": "CAJARURO",
+    "codigo": "00005096",
+    "referencia": "JOSE OLAYA",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "SANTA ISABEL",
+     "EL TIGRE",
+     "NUEVO PIURA"
+    ]
+   },
+   {
+    "distrito": "CAJARURO",
+    "codigo": "00005095",
+    "referencia": "SAN JUAN DE LA LIBERTAD",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "BUENOS AIRES",
+     "DIAMANTE ALTO"
+    ]
+   },
+   {
+    "distrito": "CAJARURO",
+    "codigo": "00006659",
+    "referencia": "ALTO AMAZONAS",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "LA UNION",
+     "LUNCHICATE"
+    ]
+   },
+   {
+    "distrito": "CAJARURO",
+    "codigo": "00005105",
+    "referencia": "EL RON",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "EL ALISO",
+     "CHALACO"
+    ]
+   },
+   {
+    "distrito": "CAJARURO",
+    "codigo": "00005103",
+    "referencia": "NARANJITOS",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "LA FLORIDA",
+     "MANDINGAS ALTO",
+     "SANTA CRUZ DE BUENA VISTA",
+     "ALTO UTCUBAMBA",
+     "PROGRESO",
+     "SEDA FLOR",
+     "NUEVA ESPERANZA DE CAJARURO",
+     "EL TRIUNFO",
+     "PUERTO NARANJITOS",
+     "EL SALAO",
+     "PURURCO",
+     "ASERRADERO",
+     "HUILLARAN",
+     "SAN MARTIN DE PORRAS",
+     "DUELAC",
+     "DUNIA GRANDE",
+     "TAMBOLIC"
+    ]
+   },
+   {
+    "distrito": "CAJARURO",
+    "codigo": "00005104",
+    "referencia": "SAN CRISTOBAL",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "LA ESPERANZA",
+     "ALTO SAN JOSE",
+     "LOS PATOS"
+    ]
+   },
+   {
+    "distrito": "JAMALCA",
+    "codigo": "00005139",
+    "referencia": "JAMALCA",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "EL LAUREL",
+     "VISTA HERMOSA",
+     "LA PALMA"
+    ]
+   },
+   {
+    "distrito": "LONYA GRANDE",
+    "codigo": "00005120",
+    "referencia": "LONYA GRANDE",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "SANTA ROSA DE JAIPE",
+     "YUNGASUYO",
+     "ZAPATALGO",
+     "LA UNION",
+     "SAN FELIPE"
+    ]
+   },
+   {
+    "distrito": "LONYA GRANDE",
+    "codigo": "00005121",
+    "referencia": "ROBLEPAMPA",
+    "provincia": "UTCUBAMBA",
+    "vinculados": [
+     "NUEVA YORK",
+     "ORTIZ ARRIETA",
+     "HUAMBOYA"
+    ]
+   }
+  ]
+ },
+ "totales": {
+  "referencia": 114,
+  "vinculados": 361,
+  "red_total": 475,
+  "provincias": [
+   "BAGUA",
+   "BONGARA",
+   "CHACHAPOYAS",
+   "CONDORCANQUI",
+   "LUYA",
+   "RODRIGUEZ DE MENDOZA",
+   "UTCUBAMBA"
+  ]
+ }
+}
